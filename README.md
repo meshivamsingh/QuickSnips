@@ -1,8 +1,7 @@
-# QuickSnips
-# [QuickSnips](https://quick-snips-qbob352g0-subodh-singhs-projects.vercel.app/)
+# [QuickSnips](https://quicksnips.vercel.app/)
 
 QuickSnips is a lightweight, efficient tool for capturing quick notes, code snippets, and other bits of information, all stored locally on your device. Designed for rapid note-taking, QuickSnips provides a streamlined alternative to larger platforms like Google Keep, Notion, and others, making it ideal for integration into tech companies' websites as a built-in notes feature for their users. <br>
-### LIVE: [Project](https://quick-snips-qbob352g0-subodh-singhs-projects.vercel.app/)
+### LIVE: [Project](https://quicksnips.vercel.app/)
 
 ## How QuickSnips Works
 QuickSnips offers a simple yet powerful interface for saving text snippets, ideas, code, and more with the following workflow:
